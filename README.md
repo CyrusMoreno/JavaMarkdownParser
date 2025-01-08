@@ -19,7 +19,7 @@ This project is a simple Markdown parser written in Java. It converts basic Mark
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/CyrusMoreno/JavaMarkdownParser.git
-   cd simple-markdown-parser
+   cd project_folder
 
 
 2. **Compile the java code then run**:
